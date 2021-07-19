@@ -1,2 +1,2 @@
 # TicTacToe
-### Simple TicTacToe on Android
+### TicTacToe on Android
